@@ -182,4 +182,5 @@ elif st.session_state.current_page == "Login":
 
 # ➕ Footer
 st.markdown("---")
-st.markdown("🔐 Secure Data Encryption System | 🎓 Educational Project by Kinza 💜")
+st.markdown("🔐 Secure Data Encryption System | 🎓 Educational Project by Kinza Khan💜")
+
